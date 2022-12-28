@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabi Basnet</h1>
-<h3 align="center">A passionate DevOps,NetworkEngineer,GraphicsDesigner from Nepal</h3>
+<h3 align="center">A passionate DevOps,Network Engineer,Graphics Designer from Nepal</h3>
 
 - 🔭 I’m currently working on **CI/CD pipeline**
 
